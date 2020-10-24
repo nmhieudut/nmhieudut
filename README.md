@@ -1,11 +1,11 @@
-# Hi, I'm Hieu 👋🏾 🏾‍💻
+# Hi, I'm Hieu 👋💻
 
 I enjoy working with include ReactJS (JavaScript, APIs) and React Native.
 
 
 ## Projects for sharing
 
-- Covid-19 Tracker:https://coronatrackers.herokuapp.com/
+Covid-19 Tracker:https://coronatrackers.herokuapp.com/
 
 ## Find me around the web 🌎:
 
