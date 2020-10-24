@@ -19,5 +19,5 @@ I'm on <a href="https://www.facebook.com/hieumaxnho">Facebook</a> or <a href="ht
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-%23282C34?style=flat-square&logo=redux.js)
+![Redux](https://img.shields.io/badge/Redux-%23282C34?logo=redux)
 ![React Native](https://img.shields.io/badge/-ReactNative-%23282C34?style=flat-square&logo=react)
