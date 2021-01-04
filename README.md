@@ -2,7 +2,6 @@
 
 I enjoy working with include ReactJS (JavaScript, APIs) and React Native.
 
-## Find me around the web 🌎:
 
 I'm on <a href="https://www.facebook.com/hieumaxnho">Facebook</a> or <a href="https://github.com/tuanconbu">My Github</a> 📹 ✍🏾
 
