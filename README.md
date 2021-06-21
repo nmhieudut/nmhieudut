@@ -1,7 +1,6 @@
 # Hi, I'm Hieu 💻
 
-I enjoy working with include ReactJS (JavaScript, APIs) and React Native.
-
+I enjoy working with client-side languages include ReactJS (HTML, CSS, JavaScript, APIs) and React Native (mobile). Also, i'm interested in server-side languages such as Golang, NodeJs...
 
 I'm on <a href="https://www.facebook.com/hieumaxnho">Facebook</a> or <a href="https://github.com/tuanconbu">My Github</a> 📹 ✍🏾
 
