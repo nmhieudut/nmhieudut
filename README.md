@@ -12,4 +12,4 @@ I'm on <a href="https://www.facebook.com/hieumaxnho">Facebook</a> or <a href="ht
 ![React Native](https://img.shields.io/badge/-ReactNative-%23282C34?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-%23282C34?logo=redux)
 ![Go](https://img.shields.io/badge/-Golang-%23282C34?style=flat-square&logo=go)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmhieudut)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmhieudut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
